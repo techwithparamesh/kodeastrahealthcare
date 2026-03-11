@@ -61,11 +61,11 @@ export function Footer() {
             <ul className="space-y-4 text-sm text-primary-foreground/70">
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-secondary shrink-0" />
-                <span>123 Innovation Drive, Suite 500<br />Tech District, TX 75001</span>
+                <span>Flat No: 106, Aditya Lake View Towers, Lake View Colony, Nizampet, Hyderabad, 500090</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-secondary shrink-0" />
-                <span>+1 (800) 555-0199</span>
+                <span>+91 744 872 6536</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-secondary shrink-0" />

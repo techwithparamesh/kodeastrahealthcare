@@ -82,7 +82,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-lg font-bold text-primary mb-1">Headquarters</h4>
-                    <p className="text-foreground/70">123 Innovation Drive, Suite 500<br />Tech District, TX 75001</p>
+                    <p className="text-foreground/70">Flat No: 106, Aditya Lake View Towers, Lake View Colony, Nizampet, Hyderabad, 500090</p>
                   </div>
                 </div>
 
@@ -92,7 +92,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="text-lg font-bold text-primary mb-1">Phone</h4>
-                    <p className="text-foreground/70">+1 (800) 555-0199<br />Mon-Fri, 8am-6pm CST</p>
+                    <p className="text-foreground/70">+91 744 872 6536<br />Mon-Fri, 8am-6pm IST</p>
                   </div>
                 </div>
 
